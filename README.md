@@ -126,7 +126,7 @@ How to View
 
 Clone this repository.
 
-Download the ElectViz.pbix file.
+Download the Electviz Election Data Visualization.pbix file.
 
 Open the file using Microsoft Power BI Desktop.
 
